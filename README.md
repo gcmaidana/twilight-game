@@ -7,7 +7,7 @@ Twilight is a game created as a group project for my Intro to Software Engineeri
 
 
 # Where are the files located? 
-LibGDX is cross-platform, so a lot of folders get created. To view the Java files we worked on, navigate to 
+[LibGDX](https://libgdx.com/) is cross-platform, so a lot of folders get created. To view the Java files we worked on, navigate to 
 
 [twilight-game/Twilight/core/src/main/java/com/onethirdbetter/twilight/](https://github.com/gcmaidana/twilight-game/tree/master/Twilight/core/src/main/java/com/onethirdbetter/twilight)
 
