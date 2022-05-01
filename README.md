@@ -1,5 +1,5 @@
 # Twilight
-Twilight is a game created as a group project for my Intro to Software Engineering class. This game was made with LibGDX. The following people worked on this project:
+Twilight is a game created as a group project for my Intro to Software Engineering class. This game was made with [LibGDX](https://libgdx.com/). The following people worked on this project:
 * Sean Maidana Dollanarte
 * Steven Borck
 * Chris East
@@ -7,7 +7,7 @@ Twilight is a game created as a group project for my Intro to Software Engineeri
 
 
 # Where are the files located? 
-[LibGDX](https://libgdx.com/) is cross-platform, so a lot of folders get created. To view the Java files we worked on, navigate to 
+LibGDX is cross-platform, so a lot of folders get created. To view the Java files we worked on, navigate to 
 
 [twilight-game/Twilight/core/src/main/java/com/onethirdbetter/twilight/](https://github.com/gcmaidana/twilight-game/tree/master/Twilight/core/src/main/java/com/onethirdbetter/twilight)
 
