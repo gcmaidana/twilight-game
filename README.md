@@ -8,7 +8,7 @@ The following people worked on this project:
 * Sean Maidana Dollanarte
 * Steven Borck
 * Chris East
-* Tim Lima
+* [Tim Lima](https://github.com/tlima2019)
 
 
 # Where are the files located? 
