@@ -1,5 +1,7 @@
 # Twilight
-Twilight is a game created as a group project for my Intro to Software Engineering class. This game was made with [LibGDX](https://libgdx.com/), a cross-platform Java game development framework. The following people worked on this project:
+Twilight is a game created as a group project for my Intro to Software Engineering class. This game was made with [LibGDX](https://libgdx.com/), a cross-platform Java game development framework. Our team name was "Team 1/3 Better". This team name was a small joke because everyone's group in class had 3 members, and because of an uneven number of students in the class, our team ended up with 4 members. Because our group had 4 members, the professor said he expected our project to be 1/3 better than everyone else's and that's how our team name was created!
+
+The following people worked on this project:
 * Sean Maidana Dollanarte
 * Steven Borck
 * Chris East
