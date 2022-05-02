@@ -14,7 +14,7 @@ LibGDX is cross-platform, so a lot of necessary folders automatically get create
 # Running the program
 To run the program, run the JAR file, [Twilight.JAR](https://github.com/gcmaidana/twilight-game/blob/master/Twilight.jar)
 
-Feel free to try to run the program in an IDE (we used IntelliJ) but it may be a pain to set up because of all the cofigurations you may need.
+Feel free to try to run the program in an IDE (we used IntelliJ), but it may be a pain to set up because of all the cofigurations you may need to set up.
 I suggest just running the JAR file, as it is easiest.
 
 If you chose to run the program, rather than the JAR file then here is some notes we made when we finished this project:
