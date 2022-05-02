@@ -35,3 +35,6 @@ If you chose to run the program, rather than the JAR file then here is some note
 5. Make sure your run configuration is selected, then build and run.
 
 6. Play the game.
+
+
+![Screenshot](2b1b185858d7cd6a89a3cb0b5c1cbcbd.png)
