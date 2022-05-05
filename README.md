@@ -6,7 +6,7 @@ Our team name was team "1/3 Better". This team name was a small joke because eve
 
 The following people worked on this project:
 * Sean Maidana Dollanarte
-* Steven Borck
+* [Steven Borck](https://github.com/StevenBorck)
 * Chris East
 * [Tim Lima](https://github.com/tlima2019)
 
